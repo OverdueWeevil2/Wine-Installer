@@ -1,29 +1,29 @@
 [English](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/README.md) | Türkçe
-# Wine Installer for Ubuntu
-Unofficial Wine Installer (Staging branch)
+# Ubuntu için Wine yükleyicisi
+Resmi olmayan Wine yükleyicisi (Staging branch)
 
-[Download ZIP](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
+[ZIP Dosyasını indir](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
 
-[Official Wine WebSite](https://winehq.org)
+[Resmi Wine WebSitesi](https://winehq.org)
 
-# How to Install?
-===[Install wget Package]===
+# Nasıl yüklenir?
+===[wget Paketi yükleyin]===
 
-Downloading Wine requires wget Package.
+Wine'ı yüklemek için wget Paketi gerektirir.
 
     sudo apt-get update
     sudo apt-get install wget
     
-===[Start Wine Installer]===
+===[Wine yükleyicisini başlatın]===
 
-[If you don't have a ZIP file click to download](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
+[Bir ZIP Dosyasına Sahip Değilseniz indirmek için tıklayın](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
 
-Type the following command before running the installer:
+Yükleyiciyi çalıştırmadan önce şu komutu yazın:
 
     chmod +x ubuntu-20.04.sh
-Now type the following command:
+Şimdi şu komutu yazın:
 
     bash ubuntu-20.04.sh
-or
+yada
 
     ./ubuntu-20.04.sh
