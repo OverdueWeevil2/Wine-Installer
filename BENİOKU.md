@@ -6,7 +6,7 @@ Resmi olmayan Wine yükleyicisi (Staging branch)
 
 [Resmi Wine WebSitesi](https://winehq.org)
 
-[Nasıl yüklenir?](#Nasıl Yüklenir?)
+[Nasıl yüklenir?](#nasıl-yüklenir?)
 
 # Nasıl yüklenir?
 ===[wget Paketi yükleyin]===
