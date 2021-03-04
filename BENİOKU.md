@@ -6,7 +6,7 @@ Resmi olmayan Wine yükleyicisi (Staging branch)
 
 [Resmi Wine WebSitesi](https://winehq.org)
 
-[Nasıl yüklenir?](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/BEN%C4%B0OKU.md#nas%C4%B1l-y%C3%BCklenir)
+[Nasıl yüklenir?](#nasıl-yüklenir)
 
 # Nasıl yüklenir?
 ===[wget Paketi yükleyin]===
