@@ -1,4 +1,4 @@
-[English](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/README.md) | Türkçe
+Dil: [English](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/README.md) | Türkçe
 # Ubuntu için Wine yükleyicisi
 Resmi olmayan Wine yükleyicisi (Staging branch)
 
