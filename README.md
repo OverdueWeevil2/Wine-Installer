@@ -6,6 +6,8 @@ Unofficial Wine Installer (Staging branch)
 
 [Official Wine WebSite](https://winehq.org)
 
+[How to Install?](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/README.md#how-to-install)
+
 # How to Install?
 ===[Install wget Package]===
 
