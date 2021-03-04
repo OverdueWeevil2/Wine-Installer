@@ -1,3 +1,4 @@
+English | [Türkçe]
 # Wine Installer for Ubuntu
 Unofficial Wine Installer (Staging branch)
 
