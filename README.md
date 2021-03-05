@@ -11,7 +11,7 @@ Unofficial Wine Installer (Staging branch)
 [How to Install?](#how-to-install)
 
 # How to Install?
-===[Install wget Package (Ubuntu)]===
+===[Install wget Package (Ubuntu AND Debian)]===
 
 Downloading Wine requires wget Package.
 
