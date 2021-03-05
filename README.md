@@ -1,4 +1,6 @@
 Language: English | [Türkçe](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/BENİOKU.md)
+
+(Translated by Google Translate, there may be some typos.)
 # Wine Installer for Ubuntu
 Unofficial Wine Installer (Staging branch)
 
