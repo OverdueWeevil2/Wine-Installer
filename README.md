@@ -15,8 +15,8 @@ Unofficial Wine Installer (Staging branch)
 
 Downloading Wine requires wget Package.
 
-    sudo apt-get update
-    sudo apt-get install wget
+    sudo apt update
+    sudo apt install wget
     
 ===[Start Wine Installer]===
 
