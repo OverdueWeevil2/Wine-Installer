@@ -9,7 +9,7 @@ Resmi olmayan Wine yükleyicisi (Staging branch)
 [Nasıl yüklenir?](#nasıl-yüklenir)
 
 # Nasıl yüklenir?
-===[wget Paketi yükleyin (Ubuntu)]===
+===[wget Paketi yükleyin (Ubuntu AND Debian)]===
 
 Wine'ı yüklemek için wget Paketi gerektirir.
 
