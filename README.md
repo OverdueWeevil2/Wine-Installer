@@ -1,7 +1,7 @@
 Language: English | [Türkçe](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/BENİOKU.md#readme)
 
 (Translated by Google Translate, there may be some typos.)
-# Wine Installer for Ubuntu
+# Wine Installer
 Unofficial Wine Installer (Staging branch)
 
 [Download ZIP](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/archive/main.zip)
@@ -11,7 +11,7 @@ Unofficial Wine Installer (Staging branch)
 [How to Install?](#how-to-install)
 
 # How to Install?
-===[Install wget Package]===
+===[Install wget Package (Ubuntu)]===
 
 Downloading Wine requires wget Package.
 
