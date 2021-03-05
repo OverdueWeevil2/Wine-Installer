@@ -2,7 +2,7 @@ Dil: [English](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/
 # Ubuntu için Wine yükleyicisi
 Resmi olmayan Wine yükleyicisi (Staging branch)
 
-[ZIP Dosyasını indir](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
+[ZIP Dosyasını indir](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/archive/main.zip)
 
 [Resmi Wine WebSitesi](https://winehq.org)
 
@@ -18,7 +18,7 @@ Wine'ı yüklemek için wget Paketi gerektirir.
     
 ===[Wine yükleyicisini başlatın]===
 
-[Bir ZIP Dosyasına Sahip Değilseniz indirmek için tıklayın](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
+[Bir ZIP Dosyasına Sahip Değilseniz indirmek için tıklayın](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/archive/main.zip)
 
 Yükleyiciyi çalıştırmadan önce şu komutu yazın:
 
