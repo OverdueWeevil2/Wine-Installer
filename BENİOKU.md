@@ -13,8 +13,8 @@ Resmi olmayan Wine yükleyicisi (Staging branch)
 
 Wine'ı yüklemek için wget Paketi gerektirir.
 
-    sudo apt-get update
-    sudo apt-get install wget
+    sudo apt update
+    sudo apt install wget
     
 ===[Wine yükleyicisini başlatın]===
 
