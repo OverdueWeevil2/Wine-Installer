@@ -1,10 +1,10 @@
-Language: English | [Türkçe](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/blob/main/BENİOKU.md#readme)
+Language: English | [Türkçe](https://github.com/OverdueWeevil2/Wine-Installer/blob/main/BENİOKU.md#readme)
 
 (Translated by Google Translate, there may be some typos.)
 # Wine Installer
 Unofficial Wine Installer (Staging branch)
 
-[Download ZIP](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/archive/main.zip)
+[Download ZIP](https://github.com/OverdueWeevil2/Wine-Installer/archive/main.zip)
 
 [Official Wine WebSite](https://winehq.org)
 
@@ -20,7 +20,7 @@ Downloading Wine requires wget Package.
     
 ===[Start Wine Installer]===
 
-[If you don't have a ZIP file click to download](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/archive/main.zip)
+[If you don't have a ZIP file click to download](https://github.com/OverdueWeevil2/Wine-Installer/archive/main.zip)
 
 Type the following command before running the installer:
 
