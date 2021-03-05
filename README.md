@@ -2,7 +2,7 @@ Language: English | [Türkçe](https://github.com/OverdueWeevil2/Wine-Installer-
 # Wine Installer for Ubuntu
 Unofficial Wine Installer (Staging branch)
 
-[Download ZIP](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
+[Download ZIP](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/archive/main.zip)
 
 [Official Wine WebSite](https://winehq.org)
 
@@ -18,7 +18,7 @@ Downloading Wine requires wget Package.
     
 ===[Start Wine Installer]===
 
-[If you don't have a ZIP file click to download](https://github.com/OverdueWeevil2/Deneme/archive/main.zip)
+[If you don't have a ZIP file click to download](https://github.com/OverdueWeevil2/Wine-Installer-for-Ubuntu/archive/main.zip)
 
 Type the following command before running the installer:
 
