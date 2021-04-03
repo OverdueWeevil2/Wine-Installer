@@ -1,4 +1,4 @@
-Dil: [English](README.md#readme) | [Türkçe](BENİOKU.md#readme)
+Dil: [English](README.md#readme) | [**Türkçe**](BENİOKU.md#readme)
 # Wine yükleyicisi
 Resmi olmayan Wine yükleyicisi (Staging branch)
 
