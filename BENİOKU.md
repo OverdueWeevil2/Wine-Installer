@@ -1,4 +1,4 @@
-Dil: [English](https://github.com/OverdueWeevil2/Wine-Installer/blob/main/README.md#readme) | Türkçe
+Dil: [English](README.md#readme) | [Türkçe](BENİOKU.md#readme)
 # Wine yükleyicisi
 Resmi olmayan Wine yükleyicisi (Staging branch)
 
