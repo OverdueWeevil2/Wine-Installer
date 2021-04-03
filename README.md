@@ -24,10 +24,10 @@ Downloading Wine requires wget Package.
 
 Type the following command before running the installer:
 
-    chmod +x ubuntu-20.04.sh
+    chmod +x fileName.sh
 Now type the following command:
 
-    bash ubuntu-20.04.sh
+    bash fileName.sh
 or
 
-    ./ubuntu-20.04.sh
+    ./fileName.sh
