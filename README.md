@@ -1,4 +1,4 @@
-Language: [English](https://github.com/OverdueWeevil2/Wine-Installer/blob/main/README.md#readme) | [Türkçe](https://github.com/OverdueWeevil2/Wine-Installer/blob/main/BENİOKU.md#readme)
+Language: [English](README.md#readme) | [Türkçe](BENİOKU.md#readme)
 
 (Translated by Google Translate, there may be some typos.)
 # Wine Installer
