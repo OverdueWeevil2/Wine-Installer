@@ -22,10 +22,10 @@ Wine'ı yüklemek için wget Paketi gerektirir.
 
 Yükleyiciyi çalıştırmadan önce şu komutu yazın:
 
-    chmod +x ubuntu-20.04.sh
+    chmod +x dosyaAdı.sh
 Şimdi şu komutu yazın:
 
-    bash ubuntu-20.04.sh
+    bash dosyaAdı.sh
 yada
 
-    ./ubuntu-20.04.sh
+    ./dosyaAdı.sh
