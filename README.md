@@ -25,6 +25,8 @@ Downloading Wine requires wget Package.
     
 ===[Start Wine Installer]===
 
+[Start Wine Installer without ZIP file](i.md)
+
 [If you don't have a ZIP file click to download](https://github.com/OverdueWeevil2/Wine-Installer/archive/main.zip)
 
 Type the following command before running the installer:
