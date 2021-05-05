@@ -23,16 +23,4 @@ Wine'ı yüklemek için wget Paketi gerektirir.
     
 ===[Wine yükleyicisini başlatın]===
 
-[ZIP dosyası olmadan Wine yükleyicisini başlatın.](i.md)
-
-[Bir ZIP Dosyasına Sahip Değilseniz indirmek için tıklayın](https://github.com/OverdueWeevil2/Wine-Installer/archive/main.zip)
-
-Yükleyiciyi çalıştırmadan önce şu komutu yazın:
-
-    chmod +x dosyaAdı.sh
-Şimdi şu komutu yazın:
-
-    bash dosyaAdı.sh
-yada
-
-    ./dosyaAdı.sh
+[Wine yükleyicisini başlatın.](i.md#readme)
