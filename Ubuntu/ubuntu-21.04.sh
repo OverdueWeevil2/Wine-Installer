@@ -8,6 +8,5 @@ sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute m
 echo Updating packages...
 sudo apt update
 echo Installing Wine package...
-sudo apt install --install-recommends winehq-staging
 sudo apt install --install-recommends winehq-staging -y
 echo Installed Wine!
