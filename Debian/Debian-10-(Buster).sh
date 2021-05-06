@@ -6,3 +6,4 @@ rm -f winehq.key
 deb https://dl.winehq.org/wine-builds/debian/ buster main
 sudo apt update
 sudo apt install --install-recommends winehq-staging
+sudo apt install --install-recommends winehq-staging -y
