@@ -1,16 +1,16 @@
 # Ubuntu
 Ubuntu 20.04:
 
-    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-20.04.sh | sudo bash
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-20.04.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 Ubuntu 21.04:
 
-    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-21.04.sh | sudo bash
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-21.04.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 Ubuntu 20.10:
 
-    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-20.10.sh | sudo bash
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-20.10.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 Ubuntu 18.04:
 
-    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-18.04.sh | sudo bash
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-18.04.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 # Fedora
 Fedora 32:
 
@@ -21,7 +21,7 @@ Fedora 33:
 # Debian
 Debian 10 (Buster):
 
-    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-10-(Buster).sh | sudo bash
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-10-(Buster).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 Debian Testing (currently Bullseye):
 
-    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-Testing-(currently-Bullseye).sh | sudo bash
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-Testing-(currently-Bullseye).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
