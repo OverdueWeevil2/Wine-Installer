@@ -25,3 +25,10 @@ Debian 10 (Buster):
 Debian Testing (currently Bullseye):
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-Testing-(currently-Bullseye).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
+# Linux Mint
+Linux Mint 20.x:
+
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Linux-Mint/Linux-Mint-20.x.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
+Linux Mint 19.x:
+
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Linux-Mint/Linux-Mint-19.x.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
