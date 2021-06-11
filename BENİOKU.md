@@ -14,7 +14,7 @@ Wine (Wine Is Not an Emulator - Wine Bir Öykünücü Değildir) kelimelerinin k
 (Kaynak: [winehq.org](//winehq.org))
 
 # Nasıl yüklenir?
-===[wget Paketi yükleyin (Ubuntu VE Debian)]===
+===[wget Paketi yükleyin (Linux Mint, Ubuntu VE Debian)]===
 
 Wine'ı yüklemek için wget Paketi gerektirir.
 
