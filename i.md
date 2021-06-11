@@ -1,3 +1,4 @@
+# [Ubuntu](#ubuntu) | [Fedora](#fedora) | [Debian](#debian) | [Linux Mint](#linux-mint)
 # Ubuntu
 Ubuntu 20.04:
 
