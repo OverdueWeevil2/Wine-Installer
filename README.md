@@ -16,7 +16,7 @@ Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility la
 (Source: [winehq.org](//winehq.org))
 
 # How to Install?
-===[Install wget Package (Ubuntu AND Debian)]===
+===[Install wget Package (Linux Mint, Ubuntu AND Debian)]===
 
 Downloading Wine requires wget Package.
 
