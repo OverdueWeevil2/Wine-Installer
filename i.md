@@ -96,6 +96,7 @@
 
 
 # Ubuntu
+## Ubuntu 18.04 do not provide FAudio, which is a dependency of current Wine. Follow the instructions in https://forum.winehq.org/viewtopic.php?f=8&t=32192 to install FAudio from the OBS. (FAudio packages for Ubuntu 19.10 and later are in the distro's universe repository.)
 Ubuntu 20.04:
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-20.04.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
@@ -127,6 +128,7 @@ Debian Testing (currently Bullseye):
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-Testing-(currently-Bullseye).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 # Linux Mint
+## Linux Mint 19.x do not provide FAudio, which is a dependency of current Wine. Follow the instructions in https://forum.winehq.org/viewtopic.php?f=8&t=32192 to install FAudio from the OBS. (FAudio packages for Ubuntu 19.10 and later are in the distro's universe repository.)
 Linux Mint 20.x:
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Linux-Mint/Linux-Mint-20.x.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
