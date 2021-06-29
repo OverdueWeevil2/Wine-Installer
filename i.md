@@ -1,3 +1,4 @@
+# [Manual Installation | Manuel Kurulum](manual.md)
 # [Ubuntu](#ubuntu) | [Fedora](#fedora) | [Debian](#debian) | [Linux Mint](#linux-mint) | [macOS](#macos)
 .
 
