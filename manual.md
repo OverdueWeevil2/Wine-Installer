@@ -97,6 +97,16 @@
 
 # Ubuntu
 ## Ubuntu 18.04 do not provide FAudio, which is a dependency of current Wine. Follow the instructions in https://forum.winehq.org/viewtopic.php?f=8&t=32192 to install FAudio from the OBS. (FAudio packages for Ubuntu 19.10 and later are in the distro's universe repository.)
+Ubuntu 14.04:
+
+    sudo dpkg --add-architecture i386 
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ trusty main'
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
 Ubuntu 16.04:
 
     sudo dpkg --add-architecture i386 
