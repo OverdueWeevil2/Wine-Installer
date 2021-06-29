@@ -109,12 +109,16 @@ Ubuntu 18.04:
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-18.04.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 # Fedora
+[Are you using Fedora 31 or lower? Try Manual Installation](manual.md#fedora)
+
 Fedora 32:
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Fedora/fedora-32.sh | sudo bash
 Fedora 33:
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Fedora/fedora-33.sh | sudo bash
+
+[Are you using Fedora 34 or higher? Try Manual Installation](manual.md#fedora)
 # Debian
 Debian 10 (Buster):
 
