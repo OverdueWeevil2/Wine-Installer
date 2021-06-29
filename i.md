@@ -1,4 +1,4 @@
-# [Ubuntu](#ubuntu) | [Fedora](#fedora) | [Debian](#debian) | [Linux Mint](#linux-mint)
+# [Ubuntu](#ubuntu) | [Fedora](#fedora) | [Debian](#debian) | [Linux Mint](#linux-mint) | [macOS](#macos)
 .
 
 .
@@ -128,3 +128,7 @@ Linux Mint 20.x:
 Linux Mint 19.x:
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Linux-Mint/Linux-Mint-19.x.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
+# macOS
+macOS:
+
+    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/macOS/macOS.sh | bash
