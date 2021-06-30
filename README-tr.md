@@ -4,7 +4,7 @@ Resmi olmayan Wine yükleyicisi (Staging branch)
 
 [ZIP Dosyasını indir](https://github.com/OverdueWeevil2/Wine-Installer/archive/main.zip)
 
-[Resmi Wine WebSitesi](https://winehq.org)
+[Resmi Türkçe Wine Web Sitesi](https://winehq.org/lang/tr)
 
 [Nasıl yüklenir?](#nasıl-yüklenir)
 
