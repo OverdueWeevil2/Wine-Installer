@@ -23,4 +23,4 @@ Wine'ı yüklemek için wget Paketi gerektirir.
     
 ===[Wine yükleyicisini başlatın]===
 
-[Wine yükleyicisini başlatın.](i.md#readme)
+[Wine'ı yüklemek için yazmanız gereken komutu görün.](i.md#readme)
