@@ -178,6 +178,36 @@ Fedora 34:
     dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/34/winehq.repo
     dnf install winehq-staging
 # Debian
+Debian 7 (Wheezy):
+
+    sudo dpkg --add-architecture i386
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    deb https://dl.winehq.org/wine-builds/debian/ wheezy main
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
+Debian 8 (Jessie):
+
+    sudo dpkg --add-architecture i386
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    deb https://dl.winehq.org/wine-builds/debian/ jessie main
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
+Debian 9 (Stretch):
+
+    sudo dpkg --add-architecture i386
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    deb https://dl.winehq.org/wine-builds/debian/ stretch main
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
 Debian 10 (Buster):
 
     sudo dpkg --add-architecture i386
@@ -196,6 +226,16 @@ Debian 11 (Bullseye):
     rm winehq.key
     rm -f winehq.key
     deb https://dl.winehq.org/wine-builds/debian/ bullseye main
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
+Debian Sid:
+
+    sudo dpkg --add-architecture i386
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    deb https://dl.winehq.org/wine-builds/debian/ sid main
     sudo apt update
     sudo apt install --install-recommends winehq-staging -y
 # Linux Mint
