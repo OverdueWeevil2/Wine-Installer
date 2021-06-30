@@ -97,7 +97,7 @@
 
 # Ubuntu
 ## Ubuntu 18.04 do not provide FAudio, which is a dependency of current Wine. Follow the instructions in https://forum.winehq.org/viewtopic.php?f=8&t=32192 to install FAudio from the OBS. (FAudio packages for Ubuntu 19.10 and later are in the distro's universe repository.)
-[Are you using Ubuntu 16.04 or lower? Try Manual Installation](manual.md#ubuntu)
+[Are you using Ubuntu 18.04 or lower? Try Manual Installation](manual.md#ubuntu)
 
 Ubuntu 20.04:
 
@@ -108,9 +108,6 @@ Ubuntu 21.04:
 Ubuntu 20.10:
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-20.10.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
-Ubuntu 18.04:
-
-    curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Ubuntu/ubuntu-18.04.sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 # Fedora
 [Are you using Fedora 31 or lower? Try Manual Installation](manual.md#fedora)
 
