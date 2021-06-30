@@ -28,7 +28,7 @@ Fedora 33:
 Debian 10 (Buster):
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-10-(Buster).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
-Debian Bullseye:
+Debian 11 (Bullseye):
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-Testing-(currently-Bullseye).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
 # Linux Mint
