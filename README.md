@@ -6,7 +6,7 @@ Unofficial Wine Installer (Staging branch)
 
 [Download ZIP](https://github.com/OverdueWeevil2/Wine-Installer/archive/main.zip)
 
-[Official Wine WebSite](https://winehq.org)
+[Official English Wine Website](https://winehq.org/lang/en)
 
 [How to Install?](#how-to-install)
 
