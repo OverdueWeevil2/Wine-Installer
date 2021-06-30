@@ -1,4 +1,4 @@
-Language: [**English**](README.md#readme) | [Türkçe](BENİOKU.md#readme)
+Language: [**English**](README.md#readme) | [Türkçe](README-tr.md#readme)
 
 (Translated by Google Translate, there may be some typos.)
 # Wine Installer
