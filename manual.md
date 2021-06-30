@@ -97,6 +97,16 @@
 
 # Ubuntu
 ## Ubuntu 18.04 do not provide FAudio, which is a dependency of current Wine. Follow the instructions in https://forum.winehq.org/viewtopic.php?f=8&t=32192 to install FAudio from the OBS. (FAudio packages for Ubuntu 19.10 and later are in the distro's universe repository.)
+Ubuntu 12.04:
+
+    sudo dpkg --add-architecture i386 
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ precise main'
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
 Ubuntu 14.04:
 
     sudo dpkg --add-architecture i386 
@@ -117,6 +127,36 @@ Ubuntu 16.04:
     sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main'
     sudo apt update
     sudo apt install --install-recommends winehq-staging -y
+Ubuntu 16.10:
+
+    sudo dpkg --add-architecture i386 
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ yakkety main'
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
+Ubuntu 17.04:
+
+    sudo dpkg --add-architecture i386 
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ zesty main'
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
+Ubuntu 17.10:
+
+    sudo dpkg --add-architecture i386 
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ artful main'
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
 Ubuntu 18.04:
 
     sudo dpkg --add-architecture i386 
@@ -125,6 +165,16 @@ Ubuntu 18.04:
     rm winehq.key
     rm -f winehq.key
     sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
+    sudo apt update
+    sudo apt install --install-recommends winehq-staging -y
+Ubuntu 18.10:
+
+    sudo dpkg --add-architecture i386 
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo apt-key add winehq.key
+    rm winehq.key
+    rm -f winehq.key
+    sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ cosmic main'
     sudo apt update
     sudo apt install --install-recommends winehq-staging -y
 Ubuntu 19.04:
