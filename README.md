@@ -25,4 +25,4 @@ Downloading Wine requires wget Package.
     
 ===[Start Wine Installer]===
 
-[Start Wine Installer.](i.md#readme)
+[See the command you need to type to install Wine.](i.md#readme)
