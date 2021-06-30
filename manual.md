@@ -188,7 +188,7 @@ Debian 10 (Buster):
     deb https://dl.winehq.org/wine-builds/debian/ buster main
     sudo apt update
     sudo apt install --install-recommends winehq-staging -y
-Debian Testing (currently Bullseye):
+Debian Bullseye:
 
     sudo dpkg --add-architecture i386
     wget -nc https://dl.winehq.org/wine-builds/winehq.key
