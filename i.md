@@ -33,6 +33,7 @@ Debian 10 (Buster):
 Debian 11 (Bullseye):
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-Testing-(currently-Bullseye).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
+[Are you using Debian Sid or higher? Try Manual Installation](manual.md#debian)
 # Linux Mint
 ## Linux Mint 19.x do not provide FAudio, which is a dependency of current Wine. Follow the instructions in https://forum.winehq.org/viewtopic.php?f=8&t=32192 to install FAudio from the OBS. (FAudio packages for Ubuntu 19.10 and later are in the distro's universe repository.)
 Linux Mint 20.x:
