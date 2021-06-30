@@ -25,6 +25,8 @@ Fedora 33:
 
 [Are you using Fedora 34 or higher? Try Manual Installation](manual.md#fedora)
 # Debian
+[Are you using Debian 9 (Stretch) or higher? Try Manual Installation](manual.md#debian)
+
 Debian 10 (Buster):
 
     curl https://raw.githubusercontent.com/OverdueWeevil2/Wine-Installer/main/Debian/Debian-10-(Buster).sh | sudo bash && sudo apt install --install-recommends winehq-staging -y
